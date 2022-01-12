@@ -3,3 +3,7 @@
 ## set up DockerHub autobuilds
 
 create a service user [see here](https://docs.docker.com/docker-hub/builds/#service-users-for-team-autobuilds).
+
+### tagging
+
+Set rules with regex on git tags
